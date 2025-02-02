@@ -9,9 +9,9 @@ Este é um projeto de ```calculadora simples``` desenvolvida com ```HTML, CSS e 
 ##
 
 ### 📌 Funcionalidades
-✅ Operações básicas: **adição (+), subtração (-), multiplicação (x) e divisão (/)**;  
-✅ Uso do **ponto decimal (.)**;  
-✅ Botão **C** para limpar o visor;  
+✅ Operações básicas: **adição (+), subtração (-), multiplicação (x) e divisão (/)**;<br>
+✅ Uso do **ponto decimal (.)**;<br>
+✅ Botão **C** para limpar o visor;<br>
 ✅ Exibição dos cálculos em tempo real.
 
 ![Imagem da calculadora](images/screenshot.png)
@@ -23,7 +23,7 @@ Este é um projeto de ```calculadora simples``` desenvolvida com ```HTML, CSS e 
    ```sh
    git clone https://github.com/seu-usuario/calculadora
    ```
-**2.** Abra o arquivo `index.html` no seu navegador;
+**2.** Abra o arquivo `index.html` no seu navegador;<br>
 **3.** Utilize os botões para realizar cálculos normalmente.
 
 ##
